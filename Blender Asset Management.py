@@ -1,5 +1,5 @@
 '''
-Overviiew:
+Overview:
 
     To create a social 3D working enviroemnt that helps so mulitple  artist can work one place
     collaberatively
@@ -44,6 +44,13 @@ Overviiew:
 
         15. Instant messaging (if not the same room)
         16. Editorial Hookup: sending finals
+
+
+
+Credits:
+    Pagewood Studios - www.PagewoodStudios.com
+    Adam Earle
+
 
 
 '''
