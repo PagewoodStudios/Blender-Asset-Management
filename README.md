@@ -1,1 +1,1 @@
-# Blender Asset Management.py
+# Blender Asset Management
